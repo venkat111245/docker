@@ -1,4 +1,0 @@
-docker pull ubuntu
-docker images
-docker run -dit --name sai ubuntu
-docker ps
